@@ -49,4 +49,4 @@ A template repository to generate your own Magisk Modules Repository
 
 ## More
 
-Learn more at the [Googlers-Repo/magisk-modules-repo-util](https://github.com/Googlers-Repo/magisk-modules-repo-util) repository.
+Learn more at the [Googlers-Repo/magisk-modules-repo-util](https://github.com/Googlers-Repo/magisk-modules-repo-util) repository. repository 
