@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1795492274.664416
+    "timestamp": 1795539722.023988
   },
   "modules": [
     {
@@ -52,7 +52,6 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 18,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165,
